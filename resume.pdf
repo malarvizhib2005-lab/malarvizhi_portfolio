@@ -1,0 +1,533 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ 8 0 R 9 0 R 10 0 R ]
+>>
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 93.62898 513.6047 333.71898 524.6047 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057malarvizhib2005\055lab\057python\055fastapi\055project)
+>>
+/P 3 0 R
+>>
+endobj
+9 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 93.62898 416.8047 300.36898 427.8047 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057malarvizhib2005\055lab\057travel\055booking)
+>>
+/P 3 0 R
+>>
+endobj
+10 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 93.62898 306.6047 300.92898 317.6047 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057malarvizhib2005\055lab\057python\055project)
+>>
+/P 3 0 R
+>>
+endobj
+11 0 obj
+<<
+/Author (Malarvizhi B)
+/CreationDate (D\07220261122203900\05305\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220261122203900\05305\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (Malarvizhi B \055 Resume)
+/Trapped /False
+>>
+endobj
+12 0 obj
+<<
+/Length 8820
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54.18898 770.20470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL 164.6228 0 Td (MALARVIZHI B) Tj T* -164.6228 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 767.20470 cm
+Q
+q
+1 0 0 1 54.18898 753.80470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 8.8 Tf 13.4 TL 0.04520 0 Td (Tirupathur, Tamil Nadu | +91 9514083659, +91 7708499858 | malarvizhi.b.2005@gmail.com | linkedin.com/in/malarvizhi2005) Tj T* -0.04520 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 731.80470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (PROFESSIONAL SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 730.00470 cm
+q
+.8 w
+1 J
+0 0 0 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.18898 673.40470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 43.6 Tm /F1 10 Tf 13.4 TL (BCA graduate \(2026, CGPA 8.2\) and aspiring Python Developer who has built three full-stack,) Tj T* (database-driven applications using Python, FastAPI, JavaScript and MySQL. Completed a Python Fullstack) Tj T* (with AI course and a one-month web development internship. Seeking an entry-level Python Developer or) Tj T* (Software Developer role.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 651.40470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (TECHNICAL SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 649.60470 cm
+q
+.8 w
+1 J
+0 0 0 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.18898 633.20470 cm
+q
+BT 1 0 0 1 0 3.4 Tm 13.4 TL /F2 10 Tf 0 0 0 rg (Programming:) Tj /F1 10 Tf ( Python \(OOP, Data Structures\), JavaScript, SQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 619.80470 cm
+q
+BT 1 0 0 1 0 3.4 Tm 13.4 TL /F2 10 Tf 0 0 0 rg (Backend:) Tj /F1 10 Tf ( FastAPI implementation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 606.40470 cm
+q
+BT 1 0 0 1 0 3.4 Tm 13.4 TL /F2 10 Tf 0 0 0 rg (Database:) Tj /F1 10 Tf ( MySQL \(schema design, queries, integration\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 593.00470 cm
+q
+BT 1 0 0 1 0 3.4 Tm 13.4 TL /F2 10 Tf 0 0 0 rg (Frontend:) Tj /F1 10 Tf ( HTML5, CSS3, JavaScript, Bootstrap, React \(basic\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 579.60470 cm
+q
+BT 1 0 0 1 0 3.4 Tm 13.4 TL /F2 10 Tf 0 0 0 rg (Tools:) Tj /F1 10 Tf ( Git, GitHub, VS Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 566.20470 cm
+q
+BT 1 0 0 1 0 3.4 Tm 13.4 TL /F2 10 Tf 0 0 0 rg (AI-assisted Development:) Tj /F1 10 Tf ( GitHub Copilot, ChatGPT, Google Gemini, Framer AI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 544.20470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (PROJECTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 542.40470 cm
+q
+.8 w
+1 J
+0 0 0 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.18898 526.00470 cm
+q
+BT 1 0 0 1 0 3.4 Tm 13.4 TL /F2 10 Tf 0 0 0 rg (Online Course Management System) Tj /F1 10 Tf ( | Python, FastAPI, HTML, CSS, JavaScript, MySQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 499.20470 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 66.18898 499.20470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 10 Tf 13.4 TL (Built a full-stack learning platform where users browse courses, view course outlines and enroll online.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 472.40470 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 17.8 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 66.18898 472.40470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.8 Tm /F1 10 Tf 13.4 TL (Developed FastAPI routes for course listing, course details and enrollment, backed by a MySQL database) Tj T* (of course and enrollment records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 445.60470 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 17.8 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 66.18898 445.60470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.8 Tm /F1 10 Tf 13.4 TL (Created a responsive HTML, CSS and JavaScript frontend that calls the backend APIs to support a smooth) Tj T* (enrollment flow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 429.20470 cm
+q
+BT 1 0 0 1 0 3.4 Tm 13.4 TL /F2 10 Tf 0 0 0 rg (Travel Booking Website) Tj /F1 10 Tf ( | HTML5, CSS3, JavaScript, Python, MySQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 389.00470 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 17.8 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 66.18898 389.00470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.8 Tm /F1 10 Tf 13.4 TL (Designed a responsive website presenting tour packages, destinations and travel details across desktop) Tj T* (and mobile screens.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 362.20470 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 17.8 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 66.18898 362.20470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.8 Tm /F1 10 Tf 13.4 TL (Implemented destination search and booking-request features, with package data and customer booking) Tj T* (preferences stored in MySQL.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 335.40470 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 17.8 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 66.18898 335.40470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.8 Tm /F1 10 Tf 13.4 TL (Debugged backend and database queries, using ChatGPT and GitHub Copilot to speed up boilerplate and) Tj T* (error fixing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 319.00470 cm
+q
+BT 1 0 0 1 0 3.4 Tm 13.4 TL /F2 10 Tf 0 0 0 rg (Hospital Management System) Tj /F1 10 Tf ( | Python, MySQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 292.20470 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 66.18898 292.20470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 10 Tf 13.4 TL (Built a records system covering patient profiles, admissions and hospital schedules.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 278.80470 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 66.18898 278.80470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 10 Tf 13.4 TL (Implemented full CRUD \(create, read, update, delete\) for patient and appointment records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 252.00470 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 17.8 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 66.18898 252.00470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.8 Tm /F1 10 Tf 13.4 TL (Designed 3 related MySQL tables \(patients, admissions, appointments\) to keep data consistent and) Tj T* (organized.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 230.00470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (INTERNSHIP EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 228.20470 cm
+q
+.8 w
+1 J
+0 0 0 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.18898 211.80470 cm
+q
+BT 1 0 0 1 0 3.4 Tm 13.4 TL /F2 10 Tf 0 0 0 rg (Web Development Intern) Tj /F1 10 Tf ( | Code Bind Technology | 1 month) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 185.00470 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 17.8 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 66.18898 185.00470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.8 Tm /F1 10 Tf 13.4 TL (Applied HTML, CSS and JavaScript in a real working environment; gained exposure to team workflows and) Tj T* (professional coding practices.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 163.00470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 161.20470 cm
+q
+.8 w
+1 J
+0 0 0 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.18898 144.80470 cm
+q
+BT 1 0 0 1 0 3.4 Tm 13.4 TL /F2 10 Tf 0 0 0 rg (Bachelor of Computer Applications \(BCA\)) Tj /F1 10 Tf ( | 2026 | CGPA: 8.2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 131.40470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 10 Tf 13.4 TL (Islamiah Women's Arts and Science College \(Thiruvalluvar University\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 115.00470 cm
+q
+BT 1 0 0 1 0 3.4 Tm 13.4 TL /F2 10 Tf 0 0 0 rg (Higher Secondary Certificate \(HSC\)) Tj /F1 10 Tf ( | 2023) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 101.60470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 10 Tf 13.4 TL (Government Girls Higher Secondary School \(State Board\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 79.60470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (CERTIFICATIONS AND WORKSHOPS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 77.80470 cm
+q
+.8 w
+1 J
+0 0 0 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.18898 61.40470 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 66.18898 61.40470 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 10 Tf 13.4 TL (Python Fullstack with AI Course, Accord Info Matrix) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 48.00472 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 66.18898 48.00472 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 10 Tf 13.4 TL (Web Development Course, Code Bind Technology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 34.60472 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 66.18898 34.60472 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 10 Tf 13.4 TL (Hands-on Web Development Workshop, Islamiah Women's Arts and Science College) Tj T* ET
+Q
+Q
+ 
+q
+1 0 0 1 54.18898 512.60470 cm
+BT 0 0 0 rg /F2 10 Tf 1 0 0 1 0 3.4 Tm (GitHub: ) Tj /F1 10 Tf 0 0.27 0.6 rg (github.com/malarvizhib2005-lab/python-fastapi-project) Tj ET
+Q
+q
+1 0 0 1 54.18898 415.80470 cm
+BT 0 0 0 rg /F2 10 Tf 1 0 0 1 0 3.4 Tm (GitHub: ) Tj /F1 10 Tf 0 0.27 0.6 rg (github.com/malarvizhib2005-lab/travel-booking) Tj ET
+Q
+q
+1 0 0 1 54.18898 305.60470 cm
+BT 0 0 0 rg /F2 10 Tf 1 0 0 1 0 3.4 Tm (GitHub: ) Tj /F1 10 Tf 0 0.27 0.6 rg (github.com/malarvizhib2005-lab/python-project) Tj ET
+Q
+
+endstream
+endobj
+xref
+0 13
+0000000004 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000000 00001 f 
+0000000373 00000 n 
+0000000414 00000 n 
+0000000521 00000 n 
+0000000633 00000 n 
+0000000883 00000 n 
+0000001122 00000 n 
+0000001362 00000 n 
+0000001689 00000 n 
+trailer
+<<
+/Size 13
+/Root 1 0 R
+/Info 11 0 R
+/ID [ <6d0f07f6887049ef1e85278ec947ec4e> <6d0f07f6887049ef1e85278ec947ec4e> ]
+>>
+startxref
+10562
+%%EOF
